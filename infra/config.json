@@ -1,0 +1,6 @@
+{
+  "WorkshopOne": {
+    "gatewayGEndpoint5D1E33B9": "https://kjf70vpllj.execute-api.us-west-2.amazonaws.com/dev/",
+    "Params": "{\"Storage\":{\"AWSS3\":{\"bucket\":\"workshopone-storagebucket19db2ff8-uo7zppabgwq1\"}},\"CloudFront\":{\"domainName\":\"d7m902u8088kb.cloudfront.net\"},\"API\":{\"endpoints\":[{\"name\":\"gateway_G\",\"endpoint\":\"https://kjf70vpllj.execute-api.us-west-2.amazonaws.com/dev/\",\"region\":\"us-west-2\"}]}}"
+  }
+}
